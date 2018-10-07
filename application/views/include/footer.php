@@ -1,0 +1,1 @@
+<strong>Copyright © 2018 <a href="">E-psychology</a></strong> All rights reserved.

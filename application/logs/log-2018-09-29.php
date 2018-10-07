@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-09-29 07:03:21 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:11:02 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:11:10 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:11:21 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:11:21 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:11:27 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:14:08 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:31:12 --> 404 Page Not Found: My_therapist/get_patient_message
+ERROR - 2018-09-29 07:31:12 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:38:30 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:39:53 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:40:37 --> Severity: Parsing Error --> syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' /home/victorjonathon/public_html/psychologyproject.tk/application/controllers/My_therapist.php 37
+ERROR - 2018-09-29 07:40:40 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2018-09-29 07:40:46 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/opt/alt/php55/usr/lib64/php/modules/ffmpeg.so' - libswscale.so.3: cannot open shared object file: No such file or directory Unknown 0
